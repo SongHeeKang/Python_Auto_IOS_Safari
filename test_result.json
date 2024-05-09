@@ -1,0 +1,10 @@
+[
+    {
+        "name": "네이버 항공권 페이지 이동",
+        "status": "passed"
+    },
+    {
+        "name": "출발지, 도착지 설정",
+        "status": "passed"
+    }
+]
